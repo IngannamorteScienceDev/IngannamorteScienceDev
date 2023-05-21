@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arsenii Ingannamorte, CTO of MyUni.</h1>
-<h3 align="center">A software frontend and backend developer.</h3>
+<h1 align="center">Hi 👋, I'm Arsenii Ingannamorte, CTO of MyUni @myuni-su</h1>
+<h3 align="center">A passionate frontend and backend software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingannamortesciencedev&label=Profile%20views&color=0e75b6&style=flat" alt="ingannamortesciencedev" /> </p>
 
