@@ -69,3 +69,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingannamortesciencedev&show_icons=true&locale=en&layout=compact" alt="ingannamortesciencedev" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IngannamorteScienceDev&theme=sunset-gradient&locale=ja&card_width=500)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IngannamorteScienceDev&theme=ambient-gradient&card_width=500)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IngannamorteScienceDev&theme=hacker&locale=ru&card_width=500)](https://git.io/streak-stats)
