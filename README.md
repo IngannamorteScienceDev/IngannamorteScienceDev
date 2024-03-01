@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsenii Ingannamorte, CTO of MyUni.</h1>
 <h3 align="center">A software full-stack software developer.</h3>
 
-- 🔭 I’m currently working on [MyUni,](https://myuni.su/) an ecosystem of student services.
+- 🔭 I’m currently working on [MyUni](https://myuni.su/), an ecosystem of student services.
 
 - 🌱 I’m currently learning **Flutter and Dart.**
 
