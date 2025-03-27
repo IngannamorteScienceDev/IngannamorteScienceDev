@@ -60,7 +60,9 @@ When I’m not coding, I enjoy learning new things, experimenting with creative 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+
+![GitHub Snake dark](https://github.com/IngannamorteScienceDev/IngannamorteScienceDev/blob/output/snake.svg?palette=github-dark)
 
 ## GitHub Stats
 
