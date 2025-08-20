@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="Neon gif banner" width="100%">
+</p>
+
 ## About Me 👋
 
 Hi, I'm Arsenij Ingannamorte, a curious and creative full-stack developer passionate about building meaningful digital experiences. I have extensive experience in programming websites, PC games, and mobile applications. I believe that great software is not just functional — it should be enjoyable, elegant, and inspiring to use.
