@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Neon gif banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/fcb9f758-7ad7-4c2c-bb0f-12fdf471e805" 
+       alt="Neon gif banner" width="100%">
 </p>
 
 ## About Me 👋
