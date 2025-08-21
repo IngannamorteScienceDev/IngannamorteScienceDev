@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IngannamorteScienceDev/IngannamorteScienceDev/blob/main/assets/Wallpaper%20GIF%20(2).gif?raw=true"
+  <img src="https://github.com/IngannamorteScienceDev/IngannamorteScienceDev/blob/main/assets/Wallpaper%20GIF%20(3).gif?raw=true"
        alt="Neon GIF banner" width="100%">
 </p>
 
