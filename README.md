@@ -5,9 +5,9 @@
 
 ## About Me 👋
 
-My name is Arsenij Ingannamorte. I am a software engineer by education, a professional full-stack developer by occupation, and an international APEC entrepreneur. Over the past several years, I have gained commercial experience with game projects, web systems, mobile applications, and applied machine learning.
+My name is Arsenij Ingannamorte. I am a software engineer by education, a professional full-stack developer by occupation, and an international <strong>APEC</strong> entrepreneur. Over the past several years, I have gained commercial experience with game projects, web systems, mobile applications, and applied machine learning.
 
-My primary hobby is solo travel and mountaineering. I have travelled alone through more than 20 countries and have climbed several mountain peaks. Additionally, I practice recreational PADI‑level diving and ride a motorcycle both on racetracks and in natural environments.
+My primary hobby is solo travel and mountaineering. I have travelled alone through more than 20 countries and have climbed several mountain peaks. Additionally, I practice recreational <strong>PADI‑level</strong> diving and ride a motorcycle both on racetracks and in natural environments.
 
 ## Development Experience 💻
 
