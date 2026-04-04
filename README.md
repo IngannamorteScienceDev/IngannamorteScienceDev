@@ -1,101 +1,113 @@
 <p align="center">
   <img src="https://github.com/IngannamorteScienceDev/IngannamorteScienceDev/blob/main/assets/github-wallpaper.jpg"
-       alt="" width="100%">
+       alt="GitHub profile banner" width="100%">
 </p>
 
-## About Me 👋
+<h1 align="center">Arsenij Ingannamorte</h1>
 
-My name is Arsenij Ingannamorte. I am a software engineer by education, a professional full-stack developer by occupation, and an international <strong>APEC</strong> entrepreneur. Over the past several years, I have gained commercial experience with game projects, web systems, mobile applications, and applied machine learning.
+<p align="center">
+  <strong>Full-Stack Developer</strong> · <strong>Research Engineering</strong> · <strong>Applied Analytics</strong>
+</p>
 
-My primary hobby is solo travel and mountaineering. I have travelled alone through more than 20 countries and have climbed several mountain peaks. Additionally, I practice recreational <strong>PADI‑level</strong> diving and ride a motorcycle both on racetracks and in natural environments.
+<p align="center">
+  I build business systems, analytical platforms, and data-driven products with a focus on architecture, reproducibility, and engineering clarity.
+</p>
 
-## Development Experience 💻
+---
 
-Below is an overview of my main areas of work: game development, web development, mobile applications, and machine learning with applied AI.
+## Profile
 
-## Game Development 🎮
+Software engineer with commercial experience across full-stack development, mobile applications, game development, and applied machine learning.
 
-I have commercial experience contributing to indie games across several genres, including platformers, arcade titles, and visual novels. My responsibilities have included implementing game logic, progression systems, user interfaces, and integrating supporting services.
+My work is centered on practical software: business applications, research-oriented analytical systems, automation workflows, and data products designed to be maintainable, well-structured, and useful beyond the prototype stage.
+
+I am particularly interested in systems that combine technical rigor with clear real-world value.
+
+---
+
+## Selected Work
+
+### Applied Platforms & Business Systems
+
+#### [Tuvalu Adaptation Intelligence Platform](https://github.com/IngannamorteScienceDev/tuvalu-adaptation-intelligence-platform)
+Evidence-to-action platform for adaptation prioritization, water resilience, implementation tracking, and climate-finance readiness in Tuvalu.  
+Designed as a decision-support system at the intersection of geospatial analytics, climate adaptation, and implementation planning.
+
+#### [SalesFlow / ASUP](https://github.com/IngannamorteScienceDev/asup-sales-system)
+Production-style sales management system built with Django, DRF, React, and TypeScript.  
+Focused on client management, order workflows, payments, returns, analytics, and dashboard reporting.
+
+### Research Engineering & Analytics
+
+#### [ThothMind](https://github.com/IngannamorteScienceDev/ThothMind)
+Intelligent analytics and forecasting system for the stock market.  
+Combines machine learning workflows, experiment pipelines, and analytical infrastructure for decision support.
+
+#### [E-commerce Market Analysis](https://github.com/IngannamorteScienceDev/ecom-ru-stat-analysis)
+Research-style analytics pipeline focused on the Russian e-commerce market.  
+Built for statistical analysis, visualization, and structured market interpretation.
+
+#### [Night Anxiety Index](https://github.com/IngannamorteScienceDev/night-anxiety-index)
+Machine learning project exploring the relationship between nighttime light intensity and anxiety-related urban patterns.  
+Combines public data, feature engineering, and analytical modeling into a coherent workflow.
+
+### Open Data & Visualization
+
+#### [Russia Border Checkpoints Map](https://github.com/IngannamorteScienceDev/russia-border-checkpoints-map)
+Open-data project and interactive map of Russian border checkpoints.  
+Combines data normalization, geographic structuring, and public-facing visualization.
+
+---
+
+## Core Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?logo=django&logoColor=fff">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff">
 </p>
 
-## Web Development 🌐
+---
 
-In web development, I have worked on projects with diverse domains and complexity levels. The scope has ranged from individual modules to full‑scale systems, including an airline ticket booking system and a complete web application for a medical center.
+## Engineering Principles
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe">&nbsp;
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">
+- Clear architecture over accidental complexity
+- Reproducible workflows over manual guesswork
+- Maintainability over short-term shortcuts
+- Documentation as part of the product
+- Practical value backed by technical rigor
+
+---
+
+## GitHub Stats
+
+<table>
+  <tbody>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=IngannamorteScienceDev&theme=dark&show_icons=true&count_private=true" />
+        <br><br>
+        <img alt="GitHub streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=IngannamorteScienceDev&theme=dark" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=IngannamorteScienceDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<p align="center">
+  <a href="https://github.com/IngannamorteScienceDev?tab=repositories">View all repositories</a>
 </p>
-
-## Mobile Applications 📱
-
-I have commercial experience building mobile applications using Flutter and Kotlin. Project work has included designing application architecture, implementing client‑side logic, handling networking and local data storage, and integrating external services.
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
-</p>
-
-## Machine Learning and AI 🤖
-
-In machine learning and AI, I have practical experience designing and deploying applied solutions. This includes developing tools for stock‑market technical analysis based on machine learning algorithms, configuring data collection and processing pipelines, and integrating models into production workflows. A separate focus is the development of my own AI systems with an emphasis on quality, reproducibility, and controlled behavior.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
-</p>
-
-## Tools and Development Practices 🛠️
-
-In day‑to‑day work, I rely on version control systems, automation tools, and testing frameworks, and follow standard collaborative development practices. I pay particular attention to reproducible environments, transparent change history, and the ability to scale and maintain solutions over time.
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff">
-</p>
-
-## GitHub Stats 📊
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=IngannamorteScienceDev&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=IngannamorteScienceDev&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=IngannamorteScienceDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
