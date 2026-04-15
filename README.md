@@ -6,22 +6,22 @@
 <h1 align="center">Arsenij Ingannamorte</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · <strong>Research Engineering</strong> · <strong>Applied Analytics</strong>
+  <strong>Full-Stack Developer</strong> · <strong>ML Systems</strong> · <strong>Research Engineering</strong>
 </p>
 
 <p align="center">
-  I build business systems, analytical platforms, and data-driven products with a focus on architecture, reproducibility, and engineering clarity.
+  I build business systems, analytical platforms, and ML-driven products with a focus on architecture, reproducibility, evaluation, and engineering clarity.
 </p>
 
 ---
 
 ## Profile
 
-Software engineer with commercial experience across full-stack development, mobile applications, game development, and applied machine learning.
+Software engineer with commercial experience across full-stack development, applied machine learning, and product-oriented system design.
 
-My work is centered on practical software: business applications, research-oriented analytical systems, automation workflows, and data products designed to be maintainable, well-structured, and useful beyond the prototype stage.
+I build business systems, analytical platforms, and ML-driven products with a focus on reproducibility, evaluation, and engineering clarity.
 
-I am particularly interested in systems that combine technical rigor with clear real-world value.
+I am particularly interested in software that combines technical rigor with clear real-world value.
 
 ---
 
@@ -40,16 +40,16 @@ Focused on client management, order workflows, payments, returns, analytics, and
 ### Research Engineering & Analytics
 
 #### [ThothMind](https://github.com/IngannamorteScienceDev/ThothMind)
-Intelligent analytics and forecasting system for the stock market.  
-Combines machine learning workflows, experiment pipelines, and analytical infrastructure for decision support.
+Research-engineered platform for market forecasting and financial analytics.  
+Combines feature pipelines, experiment workflows, model evaluation, and analytical infrastructure for decision support.
 
 #### [E-commerce Market Analysis](https://github.com/IngannamorteScienceDev/ecom-ru-stat-analysis)
 Research-style analytics pipeline focused on the Russian e-commerce market.  
 Built for statistical analysis, visualization, and structured market interpretation.
 
 #### [Night Anxiety Index](https://github.com/IngannamorteScienceDev/night-anxiety-index)
-Machine learning project exploring the relationship between nighttime light intensity and anxiety-related urban patterns.  
-Combines public data, feature engineering, and analytical modeling into a coherent workflow.
+Machine learning workflow exploring the relationship between nighttime light intensity and anxiety-related urban patterns.  
+Combines public data, feature engineering, analytical modeling, and interpretable research framing into a coherent system.
 
 ### Open Data & Visualization
 
@@ -59,21 +59,23 @@ Combines data normalization, geographic structuring, and public-facing visualiza
 
 ---
 
+## Focus
+
+I am especially interested in ML and analytical systems that are reproducible, evaluation-driven, and useful in real decision-making contexts.
+
+---
+
 ## Core Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff">
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?logo=django&logoColor=fff">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff">
 </p>
 
@@ -83,6 +85,7 @@ Combines data normalization, geographic structuring, and public-facing visualiza
 
 - Clear architecture over accidental complexity
 - Reproducible workflows over manual guesswork
+- Evaluation and interpretability over model hype
 - Maintainability over short-term shortcuts
 - Documentation as part of the product
 - Practical value backed by technical rigor
